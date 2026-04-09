@@ -2,11 +2,11 @@
 
 A clean, responsive web application that helps users split restaurant bills or shared expenses fairly among group members, including an optional tip calculation.
 
+## 🔗 Live Demo
+
+Check out the app live here: [Bill Splitter](https://syeon-protocol.github.io/Bill_Splitter/)
+
 ---
-
-## 📸 Preview
-
-The application features a minimalist, centered UI with a soft color palette and responsive input fields.
 
 ## 🚀 Features
 
